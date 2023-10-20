@@ -1,0 +1,29 @@
+
+    .form-cont{
+        display: flex;
+        justify-content: center;
+        background-color: rgba(39, 37, 37, 0.986);
+        margin: 20px 10px;
+        padding: 20px 20px;
+        border-radius: 7px;
+        width: 700px;
+        font-size: 1em;
+  
+    }
+    
+    .form-cont-form{
+        display: flex;
+        flex-direction: column;
+        width: 20rem;
+    }
+    
+    .form-error{
+        color: red;
+    }
+    .buttonn{
+        width: auto;
+        background-color: darkred;
+        font-size: 0.50em;
+    }
+    
+    

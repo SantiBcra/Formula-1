@@ -1,0 +1,21 @@
+.detail{
+  
+  justify-content: center;
+  background-color: rgba(39, 37, 37, 0.973);
+  margin: 10px 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  width: 650px;
+  font-size: 0.80em;
+  
+
+}
+
+
+
+.img{
+  justify-content:center;
+  width: 180px;
+    height: 180px;
+   
+}

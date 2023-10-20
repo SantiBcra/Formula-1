@@ -1,0 +1,33 @@
+.img{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+  }
+
+
+.cardContainer{
+
+  border-width: 3px;
+  border-color: rgba(214, 17, 17, 0.863) rgb(255, 255, 255) rgba(0, 255, 76, 0.767) ;  /* up to four colors */
+  border-style: solid;
+  background-color: rgba(29, 29, 29, 0.959);
+  
+  margin: 4px 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  width: 230px;
+  
+  font-size: 0.7em;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.35s ease-out;
+}
+
+.cardContainer:hover{
+    transform: scale(1.01);
+    filter: drop-shadow(0 0 2em #61faff);
+}
+.info{
+  text-align: center;
+
+}

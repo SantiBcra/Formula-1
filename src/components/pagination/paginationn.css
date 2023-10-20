@@ -1,0 +1,13 @@
+.num{
+    
+    
+    padding: 0.6em 1.2em;
+    font-size: 0.80em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: rgba(67, 15, 211, 0.685);
+  border-radius: 10px;
+  border: 3px rgba(0, 0, 0, 0.699) solid;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}

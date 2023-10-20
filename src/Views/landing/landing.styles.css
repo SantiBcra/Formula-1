@@ -1,0 +1,24 @@
+.tittle{
+  background-color: rgba(28, 100, 168, 0.596);
+  margin: 4px 4px;
+  padding: 2px 4px;
+  border-radius: 3px;
+  width: 300px;
+  font-size: 3em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  transform: translateZ(0);
+  transition: transform 0.55s ease-out;
+}
+
+
+.tittle:hover{
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 2em #ffffffaa);
+}
+.button{
+  background-color: rgba(28, 100, 168, 0.596);
+    cursor: pointer;
+    border: 3px solid rgba(0, 0, 0, 0.548);
+    border-radius: 40px;
+    width: 100px;
+}
